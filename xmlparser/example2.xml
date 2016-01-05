@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Guru Jobs</title>
+        <link>http://www.guru.com</link>
+        <description>Guru Jobs</description>
+        <lastBuildDate>Sun, 15 Nov 2015 11:04:51 GMT</lastBuildDate>
+        <language>en-us</language>
+        <atom:link href='http://www.guru.com/rss/jobs/' rel="self" type="application/rss+xml" />
+        <item>
+            <title>Imaging for Bespoke Curtain Website</title>
+            <link>http://www.guru.com/jobs/imaging-for-bespoke-curtain-website/1203083</link>
+            <guid>http://www.guru.com/jobs/imaging-for-bespoke-curtain-website/1203083</guid>
+            <description><![CDATA[<b>Description:</b> Hi,We are currently developing a made to measure curtain website and are looking for help in develo...<br><b>Category:</b> Web, Software & IT<br><b>Required skills:</b> ecommerce, imaging software, opencart, web development<br><b>Fixed Price budget:</b> $500-$1k<br><b>Job type:</b> Public<br><b>Freelancer Location:</b> Worldwide<br>]]>
+            </description>
+            <pubDate>Mon, 04 Jan 2016 12:14:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
